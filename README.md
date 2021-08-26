@@ -1,2 +1,2 @@
 # Сайт компании "Ирвас"  
-ash-we.github.io
+Ссылка на саму страницу: https://ash-we.github.io
